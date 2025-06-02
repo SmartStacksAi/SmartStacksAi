@@ -1,14 +1,4 @@
-## Hi there 👋
-
-<!--
-**SmartStacksAi/SmartStacksAi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on creating a website
-- 🌱 I’m currently learning with Ai
-- 👯 I’m looking to collaborate on anything and everything ...
-- # SmartStacks AI Website
+# SmartStacks AI Website
 
 Official website for SmartStacks AI - helping businesses build once and automate the rest.
 
